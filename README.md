@@ -4,8 +4,6 @@
 
 
 
-![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=Richardhmcosta&show_icons=true&theme=radical)
-
 ## Tecnologias que eu ultilizo:
 
 <div style="text-align: center;">
